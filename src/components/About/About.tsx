@@ -1,5 +1,4 @@
 import { Container } from "./styles";
-// import VinayakSingh from "../../assets/VinayakSingh.webp";
 import Saurabh from "../../assets/saurabh.webp"
 import python from "../../assets/python.svg"
 import node from "../../assets/node-icon.svg"
@@ -42,7 +41,7 @@ export function About() {
           <div className="education">
             <h3>Education:</h3>
             <h4> Bachelor of Technology (B.Tech)</h4>
-            <p> Dr. A.P.J Abdul Kalam Technical University, Lucknow | July 2023 - Present</p>
+            <p> Dr. A.P.J Abdul Kalam Technical University, Lucknow | July 2022 - Present</p>
             <p> 8.0 CGPA</p>
           </div>
         </ScrollAnimation>
